@@ -22,8 +22,8 @@ El proyecto está organizado en cuatro módulos, cada uno con una responsabilida
 ## Instalación y ejecución
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_REPOSITORIO>
+git clone <https://github.com/AgusStein99/TPI_PROG_1>
+cd <TPI_PROG_1>
 python3 main.py
 ```
 
@@ -106,18 +106,3 @@ Cantidad por continente:
 └── README.md
 ```
 
-## Documentación
-
-- Informe académico completo (PDF): <LINK_O_ARCHIVO_PDF>
-- Video demostrativo: <LINK_AL_VIDEO>
-
-## Integrantes
-
-| Integrante | Participación |
-|---|---|
-| <NOMBRE_INTEGRANTE_1> | <DETALLE_DE_PARTICIPACIÓN> |
-| <NOMBRE_INTEGRANTE_2> | <DETALLE_DE_PARTICIPACIÓN> |
-
-## Materia
-
-Programación 1 — Tecnicatura Universitaria en Programación a Distancia.

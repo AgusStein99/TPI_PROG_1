@@ -9,7 +9,7 @@ Aplicación de consola desarrollada en Python 3 que permite gestionar informaci�
 El proyecto está organizado en cuatro módulos, cada uno con una responsabilidad específica:
 
 | Archivo       | Responsabilidad |
-|   ---         |       ---       |
+| --------------|-----------------|
 | `main.py`     | Punto de entrada del programa y menú principal. |
 | `ui.py`       | Interacción con el usuario (lectura de datos por consola, validaciones de entrada y presentación de resultados). |
 | `manager.py`  | Lógica de negocio: filtrado, ordenamiento, actualización y cálculo de estadísticas. |

@@ -1,7 +1,7 @@
 import csv
 import os
 
-# Buscamos la ruta relativa a la carpeta 'data' fuera de 'src'
+
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ARCHIVO_CSV = os.path.join(BASE_DIR, 'data', 'paises.csv')
 

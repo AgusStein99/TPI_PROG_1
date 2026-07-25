@@ -105,4 +105,5 @@ Cantidad por continente:
 ├── main.py
 └── README.md
 ```
-
+linkd del repositorio: https://github.com/AgusStein99/TPI_PROG_1
+link de video explicativo: https://youtu.be/vrLJb3kSIcQ
